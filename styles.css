@@ -1,0 +1,21 @@
+:root{
+    width: auto;
+
+}
+body{
+    align-items: center;
+}
+div.container{
+    margin: auto ;
+    align-items: center;
+}
+div.carousel{
+    text-align: center;
+    margin: auto auto 80px auto;
+    width: 50vw;
+    height: 50vw;
+}
+img{
+  
+    width: 100px;
+}
